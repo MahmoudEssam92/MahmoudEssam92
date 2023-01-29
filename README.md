@@ -21,7 +21,7 @@ I am a self-taught UI/UX Designer and AI engineer passionate about learning new 
 href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudEssam92&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/MahmoudEssam92/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudEssam92&repo=convoychat" />
 </a>
 
