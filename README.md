@@ -19,10 +19,10 @@ I am a self-taught UI/UX Designer and AI engineer passionate about learning new 
 - 🌱 I’m currently learning Microsoft Azure, AI and Machine Learning. 
 
 href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudEssam92&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudEssam92&repo=convoychat" />
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudEssam92&show_icons=true&theme=transparent)
