@@ -15,6 +15,13 @@ I am a self-taught UI/UX Designer and AI engineer passionate about learning new 
 * Figma
 * Photoshop
 
+## About me
+* Name: Mahmoud Essam
+* Experience: AI, Machine Learning, Computer vision, UI/UX Design, UX Research
+* Communities: Microsoft Learn Student Ambassadors (MLSA), Google DSC (GDSC), Empower Hub - Tech Leaders Hub, ICPC
+* E-Mail: mahmoudessam.uiuxdesigner@gmail.com
+* Programming languages eperience: Python, C++, HTML, CSS
+* Tools: Adobe XD, Figma, Adobe Photoshop, Adobe Premier
 
 
 <h2 align="left">Connect with me</h2>
