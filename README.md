@@ -19,11 +19,15 @@ I am a self-taught UI/UX Designer and AI engineer passionate about learning new 
 - 🌱 I’m currently learning Microsoft Azure, AI and Machine Learning. 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudEssam92&show_icons=true&theme=transparent)
 
+<div>
+<h2>Stats📈</h2>	
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MahmoudEssam92)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MahmoudEssam92&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudEssam92&theme=tokyonight" />
+</p>
+</div>
 
 
 
