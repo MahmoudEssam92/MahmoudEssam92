@@ -17,7 +17,7 @@ I am a self-taught UI/UX Designer and AI engineer passionate about learning new 
 
 
 
-<h2 align="left">Connect with me🤝</h2>
+<h2 align="left">Connect with me</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/mahmoud-essam-a25050220/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
@@ -43,4 +43,4 @@ I am a self-taught UI/UX Designer and AI engineer passionate about learning new 
 
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MahmoudEssam92)  
+
