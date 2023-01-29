@@ -16,7 +16,19 @@ I am a self-taught UI/UX Designer and AI engineer passionate about learning new 
 * Photoshop
 
 
-- 🌱 I’m currently learning Microsoft Azure, AI and Machine Learning. 
+
+<h2 align="left">Connect with me🤝</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/mahmoud-essam-a25050220/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+  <a href="https://mahmoudessamuxdesigner.weebly.com/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+ 
+  <a href="https://www.instagram.com/essam.74_manal/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mahmoudessam.uiuxdesigner@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+
 
 
 
