@@ -16,6 +16,6 @@ Skills: Python / C++ / OpenCV/ HTML / CSS / Adobe XD / Figma / Photoshop
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MahmoudEssam92)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudEssam92&show_icons=true)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MahmoudEssam92)  
