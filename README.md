@@ -9,7 +9,7 @@ Skills: Python / C++ / OpenCV/ HTML / CSS / Adobe XD / Figma / Photoshop
 - 🌱 I’m currently learning Microsoft Azure, AI and Machine Learning. 
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudEssam92)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
